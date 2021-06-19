@@ -1,14 +1,14 @@
 # Raspberry-Monster's Introduction
 
-## 盲生 你发现了华点
+## Hi There!
 
-我是Raspberry-Monster 一个萌新开发者 男子初中生(?)
+This is Raspberry-Monster, a Taiwanese who studying in junior school in the Mainland of China and facing the stress from ZhongKao
 
-你可以称呼我为 Raspberry Kan或者是Allen Kan
+You can call me Raspberry Kan or Allen Kan
 
-让我们一起来搞点 哲 学 的内容吧！
+Let's do something INTERESTING (XD)
 
-## Raspberry的哲学操作
+## Raspberry’s Footstep
 
 [![Raspberry's github stats](https://github-readme-stats.vercel.app/api?username=Raspberry-Monster)](https://github.com/Raspberry-Monster/github-readme-stats)
 
