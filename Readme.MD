@@ -14,4 +14,3 @@ Notice: This is Raspberry's personal account. Repositories are my own
 
 [![Raspberry's github stats](https://github-readme-stats.vercel.app/api?username=Raspberry-Monster)](https://github.com/Raspberry-Monster/github-readme-stats)
 
-[![Raspberry's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Raspberry-Monster&layout=compact)](https://github.com/Raspberry-Monster/github-readme-stats)
