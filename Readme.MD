@@ -10,7 +10,6 @@ Let's do something INTERESTING (XD)
 
 ## Developing Environment
 [![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
-[![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
 
 Notice: This is Raspberry's personal account. Repositories are my own
 
