@@ -2,7 +2,7 @@
 
 ## Hi There!
 
-This is Raspberry-Monster, a Taiwanese who studying in junior school in the Mainland of China and facing the stress from ZhongKao
+This is Raspberry-Monster, a Taiwanese who studying in senior high school in the Mainland of China and facing the stress from GaoKao
 
 You can call me Raspberry Kan or Allen Kan
 
@@ -10,6 +10,7 @@ Let's do something INTERESTING (XD)
 
 ## Developing Environment
 [![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
 
 Notice: This is Raspberry's personal account. Repositories are my own
 
