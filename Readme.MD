@@ -9,7 +9,7 @@ You can call me Raspberry Kan or Allen Kan
 Let's do something INTERESTING (XD)
 
 ## Developing Environment
-[![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
 
 Notice: This is Raspberry's personal account. Repositories are my own
