@@ -2,7 +2,7 @@
 
 ## Hi There!
 
-This is Raspberry-Monster, a Taiwanese who studying in senior high school in the Mainland of China and facing the stress from GaoKao
+This is Raspberry-Monster, a 16-year-old Taiwanese who studying in senior high school in the Mainland of China and facing the stress from GaoKao
 
 You can call me Raspberry Kan or Allen Kan
 
