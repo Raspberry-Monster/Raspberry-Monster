@@ -17,7 +17,7 @@ Notice: This is Raspberry's personal account. Repositories are my own
 
 ## Raspberry’s Footsteps
 
-[![Raspberry's github stats](https://github-readme-stats.vercel.app/api?username=Raspberry-Monster)]
+![Raspberry's github stats](https://github-readme-stats.vercel.app/api?username=Raspberry-Monster)
 
 ## Donations
 
