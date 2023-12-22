@@ -2,7 +2,7 @@
 
 ## Hi There!👋
 
-This is Raspberry-Monster, a 16-year-old Taiwanese (or you can regarded me as a Chinese) who is studying in Sun Yat-Sen Memorial Secondary School in the Mainland of China🇨🇳
+This is Raspberry-Monster, a 17-year-old Taiwanese (or you can regarded me as a Chinese) who is studying in Sun Yat-Sen Memorial Secondary School in the Mainland of China🇨🇳
 and facing the stress from GaoKao (a.k.a College Entrance Examination), fighting against depression.
 
 You can call me Raspberry Kan or 树莓 (for Chinese users). Allen Kan is accepted but not recommended.
