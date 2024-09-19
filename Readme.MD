@@ -22,4 +22,4 @@ Notice: This is Raspberry's personal account. Repositories are my own
 
 ## Donations
 
-[爱发电](https://afdian.net/@raspberry_kan)
+[爱发电](https://afdian.com/a/raspberry_kan)
